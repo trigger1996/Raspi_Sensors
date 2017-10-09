@@ -1,0 +1,41 @@
+备用的外置锂电:
+	https://item.taobao.com/item.htm?spm=a230r.1.14.81.368a63c4ewCZD5&id=558097261902&ns=1&abbucket=17#detail
+	https://item.taobao.com/item.htm?spm=a230r.1.14.35.7faf7464ck8c0b&id=556751463116&ns=1&abbucket=17#detail
+一般正常直接用飞控供电就好了
+
+激光雷达
+	https://item.taobao.com/item.htm?id=543210156768&ali_refid=a3_430582_1006:1125447604:N:%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE%E6%B5%8B%E8%B7%9D:10676f1e9600c4ea446308fd38d57e2f&ali_trackid=1_10676f1e9600c4ea446308fd38d57e2f&spm=a230r.1.14.11.57b0cdcaxISbu7#detail
+	http://www.cnblogs.com/BlueMountain-HaggenDazs/p/6512241.html
+	
+9013
+	贴片：https://item.taobao.com/item.htm?spm=a1z10.3-c-s.w4002-16569462289.21.49d8cf93SiZQN&id=532688077766
+	直插：https://item.taobao.com/item.htm?spm=a1z10.3-c-s.w4002-16569462289.24.49d8cf93SiZQN&id=536215057739
+	
+PWM
+	树莓派只有GPIO.1能产生PWM
+	http://www.cnblogs.com/jikexianfeng/p/6938119.html
+	http://blog.csdn.net/lzty634158/article/details/72902803
+	
+LED
+	用5050的
+	https://item.taobao.com/item.htm?spm=a1z10.3-c-s.w4002-16569462289.9.3fe73740ma2WOV&id=522576144843
+	
+PCA9685
+	https://item.taobao.com/item.htm?spm=a1z10.3-c.w4002-11935848131.10.7c993574LwO1Up&id=520424376942
+
+MS5611
+	https://item.taobao.com/item.htm?spm=a1z10.3-c.w4002-11935848131.9.29c44618fgnsd8&id=40603476951
+
+MPU9250
+	https://item.taobao.com/item.htm?spm=a1z10.3-c.w4002-11935848131.11.1123f90562m0IE&id=40553943973
+	
+ADS1115
+	https://item.taobao.com/item.htm?spm=a1z10.3-c.w4002-11935848131.9.7275ea71W9Y6TF&id=44902620342
+
+GPS
+	https://item.taobao.com/item.htm?spm=a230r.1.14.154.66e12720sgIYQB&id=539427325170&ns=1&abbucket=17#detail
+
+长排母叫PC104
+
+GPS增益天线
+	https://item.taobao.com/item.htm?spm=a230r.1.14.14.38212ab2gzA93Y&id=556957755287&ns=1&abbucket=17#detail
