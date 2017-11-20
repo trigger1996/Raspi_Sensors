@@ -1,0 +1,19 @@
+Change Component Footprint: Designator=R0 Old Footprint=AXIAL-0.4 New Footprint=0805-2
+Change Component Footprint: Designator=R1 Old Footprint=AXIAL-0.4 New Footprint=0805-2
+Change Component Footprint: Designator=Q0 Old Footprint=TO-92A New Footprint=SOT23_L
+Added Component: Designator=Pwr_SW(HDR1X3)
+Added Component: Designator=RPLidar(HDR1X7)
+Added Pin To Net: NetName=VCC Pin=RPLidar-1
+Added Pin To Net: NetName=GND Pin=RPLidar-3
+Added Pin To Net: NetName=VCC Pin=RPLidar-4
+Added Pin To Net: NetName=USART_RX Pin=RPLidar-5
+Added Pin To Net: NetName=GND Pin=RPLidar-7
+Change Net Name : Old Net Name=USART_RX New Net Name=LIDAR_TX
+Added Pin To Net: NetName=LIDAR_RX Pin=Raspi_GPIO-8
+Added Pin To Net: NetName=LIDAR_RX Pin=RPLidar-6
+Added Net: Name=LIDAR_RX
+Added Pin To Net: NetName=MOTOCTL Pin=RPLidar-2
+Added Net: Name=MOTOCTL
+Added Class: Name=etc
+Added Member To Class: ClassName=Sensors Member=Component RPLidar Header 7
+Added Room: Name=etc

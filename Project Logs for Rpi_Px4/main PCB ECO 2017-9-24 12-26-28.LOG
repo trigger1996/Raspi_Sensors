@@ -1,0 +1,9 @@
+Added Component: Designator=Bkup(HDR2X1_A)
+Added Pin To Net: NetName=BACKUP_1 Pin=Bkup-2
+Added Pin To Net: NetName=BACKUP_2 Pin=Bkup-1
+Added Pin To Net: NetName=BACKUP_2 Pin=Raspi_GPIO-13
+Added Net: Name=BACKUP_2
+Added Member To Class: ClassName=etc Member=Component Bkup ±¸ÓÃÒý½Å
+Added Room: Name=etc
+Added Room: Name=Rpi_GPIO
+Added Room: Name=Sensors

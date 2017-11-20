@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=NetD0_1 Pin=D0-1
+Removed Pin From Net: NetName=VCC Pin=D0-2
+Removed Pin From Net: NetName=NetD0_3 Pin=D0-3
+Removed Pin From Net: NetName=NetD0_4 Pin=D0-4
+Change Component Footprint: Designator=D0 Old Footprint=LED-RGB New Footprint=LED_5050_RGB
+Added Pin To Net: NetName=NetD0_1 Pin=D0-A
+Added Pin To Net: NetName=NetD0_1 Pin=D0-A
+Added Pin To Net: NetName=NetD0_1 Pin=D0-A
+Added Pin To Net: NetName=VCC Pin=D0-K1
+Added Pin To Net: NetName=NetD0_3 Pin=D0-K2
+Added Pin To Net: NetName=NetD0_4 Pin=D0-K3

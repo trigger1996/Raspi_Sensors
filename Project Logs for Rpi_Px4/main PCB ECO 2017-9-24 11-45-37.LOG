@@ -1,0 +1,56 @@
+Added Component: Designator=3V3_Bk(HDR1X4)
+Added Component: Designator=ADS1115(HDR1X10)
+Added Component: Designator=Bat_ADC(HDR1X6)
+Added Component: Designator=F0(1812)
+Added Component: Designator=GND_Bk(HDR1X4)
+Added Component: Designator=GPS(HDR1X5)
+Added Component: Designator=P?(二极管5050)
+Added Component: Designator=R4(0805)
+Added Component: Designator=Vcc_Bk(HDR1X4)
+Added Pin To Net: NetName=3V3 Pin=3V3_Bk-1
+Added Pin To Net: NetName=3V3 Pin=3V3_Bk-2
+Added Pin To Net: NetName=3V3 Pin=3V3_Bk-3
+Added Pin To Net: NetName=3V3 Pin=3V3_Bk-4
+Added Pin To Net: NetName=VCC Pin=ADS1115-1
+Added Pin To Net: NetName=GND Pin=ADS1115-2
+Added Pin To Net: NetName=I2C_SCL Pin=ADS1115-3
+Added Pin To Net: NetName=I2C_SDA Pin=ADS1115-4
+Added Pin To Net: NetName=VCC Pin=ADS1115-9
+Added Pin To Net: NetName=GND Pin=Bat_ADC-5
+Added Pin To Net: NetName=GND Pin=Bat_ADC-6
+Added Pin To Net: NetName=V_UBEC Pin=F0-1
+Added Pin To Net: NetName=GND Pin=GND_Bk-1
+Added Pin To Net: NetName=GND Pin=GND_Bk-2
+Added Pin To Net: NetName=GND Pin=GND_Bk-3
+Added Pin To Net: NetName=GND Pin=GND_Bk-4
+Added Pin To Net: NetName=GND Pin=GPS-1
+Added Pin To Net: NetName=VCC Pin=GPS-2
+Added Pin To Net: NetName=USART_TX Pin=GPS-3
+Added Pin To Net: NetName=USART_RX Pin=GPS-4
+Added Pin To Net: NetName=GND Pin=R4-1
+Added Pin To Net: NetName=VCC Pin=Vcc_Bk-1
+Added Pin To Net: NetName=VCC Pin=Vcc_Bk-2
+Added Pin To Net: NetName=VCC Pin=Vcc_Bk-3
+Added Pin To Net: NetName=VCC Pin=Vcc_Bk-4
+Added Pin To Net: NetName=CUR_5 Pin=ADS1115-8
+Added Pin To Net: NetName=CUR_5 Pin=Bat_ADC-2
+Added Pin To Net: NetName=CUR_5 Pin=R4-2
+Added Net: Name=CUR_5
+Added Pin To Net: NetName=NetBat_ADC_3 Pin=Bat_ADC-3
+Added Pin To Net: NetName=NetBat_ADC_3 Pin=Bat_ADC-4
+Added Pin To Net: NetName=NetBat_ADC_3 Pin=F0-2
+Added Net: Name=NetBat_ADC_3
+Added Pin To Net: NetName=PPS_GPS Pin=GPS-5
+Added Net: Name=PPS_GPS
+Added Pin To Net: NetName=VOL_5 Pin=ADS1115-7
+Added Pin To Net: NetName=VOL_5 Pin=Bat_ADC-1
+Added Net: Name=VOL_5
+Added Member To Class: ClassName=etc Member=Component 3V3_Bk 备用引脚
+Added Member To Class: ClassName=Sensors Member=Component ADS1115 第一轮先用于测试
+Added Member To Class: ClassName=etc Member=Component Bat_ADC 最好是GH接头的，但是考虑到焊接难度，还是修改电压计的线
+Added Member To Class: ClassName=etc Member=Component F0 3A，如果电供不上就直接短接
+Added Member To Class: ClassName=etc Member=Component GND_Bk 备用引脚
+Added Member To Class: ClassName=Sensors Member=Component GPS 弯排母
+Added Member To Class: ClassName=Sensors Member=Component P? Header 3X2A
+Added Member To Class: ClassName=Sensors Member=Component R4 Res2
+Added Member To Class: ClassName=etc Member=Component Vcc_Bk 备用引脚

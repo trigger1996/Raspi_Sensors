@@ -1,0 +1,18 @@
+Added Component: Designator=Bat_ADC(HDR8X2_E1)
+Added Component: Designator=GPS(HDR1X5)
+Added Pin To Net: NetName=VCC Pin=Bat_ADC-3
+Added Pin To Net: NetName=VCC Pin=Bat_ADC-4
+Added Pin To Net: NetName=GND Pin=Bat_ADC-5
+Added Pin To Net: NetName=GND Pin=Bat_ADC-6
+Added Pin To Net: NetName=GND Pin=GPS-1
+Added Pin To Net: NetName=VCC Pin=GPS-2
+Added Pin To Net: NetName=USART_TX Pin=GPS-3
+Added Pin To Net: NetName=USART_RX Pin=GPS-4
+Added Pin To Net: NetName=CUR_5 Pin=Bat_ADC-2
+Added Net: Name=CUR_5
+Added Pin To Net: NetName=PPS_GPS Pin=GPS-5
+Added Net: Name=PPS_GPS
+Added Pin To Net: NetName=VOL_5 Pin=Bat_ADC-1
+Added Net: Name=VOL_5
+Added Member To Class: ClassName=Sensors Member=Component Bat_ADC Header 6
+Added Member To Class: ClassName=Sensors Member=Component GPS Õ‰≈≈ƒ∏

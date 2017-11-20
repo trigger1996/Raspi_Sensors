@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=BACKUP_2 Pin=Bkup-1
+Removed Pin From Net: NetName=BACKUP_1 Pin=Bkup-2
+Removed Member From Class: ClassName=etc Member=Bkup

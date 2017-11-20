@@ -73,6 +73,23 @@ GenerateClassCluster=0
 DocumentUniqueId=MQXSWXQP
 
 [Document3]
+DocumentPath=main_fourlayers.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=MQXSWXQP
+
+[Document4]
 DocumentPath=Sensors.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -89,7 +106,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UBDSINVT
 
-[Document4]
+[Document5]
 DocumentPath=etc.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1

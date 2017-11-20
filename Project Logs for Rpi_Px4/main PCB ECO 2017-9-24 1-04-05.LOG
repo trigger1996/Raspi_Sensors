@@ -1,0 +1,35 @@
+Change Component Footprint: Designator=R0 Old Footprint=0805-2 New Footprint=0805
+Change Component Footprint: Designator=R1 Old Footprint=0805-2 New Footprint=0805
+Added Component: Designator=Key_0(KEY_M)
+Added Component: Designator=Key_1(KEY_M)
+Added Component: Designator=PWR_Ex(HDR1X2)
+Added Component: Designator=R2(0805)
+Added Component: Designator=R3(0805)
+Added Pin To Net: NetName=GND Pin=Key_0-2
+Added Pin To Net: NetName=GND Pin=Key_0-2
+Added Pin To Net: NetName=GND Pin=Key_1-2
+Added Pin To Net: NetName=GND Pin=Key_1-2
+Added Pin To Net: NetName=GND Pin=PWR_Ex-2
+Added Pin To Net: NetName=VCC Pin=Pwr_SW-2
+Added Pin To Net: NetName=VCC Pin=R2-2
+Added Pin To Net: NetName=VCC Pin=R3-2
+Added Pin To Net: NetName=KEY_0 Pin=Key_0-1
+Added Pin To Net: NetName=KEY_0 Pin=Key_0-1
+Added Pin To Net: NetName=KEY_0 Pin=R3-1
+Added Pin To Net: NetName=KEY_0 Pin=Raspi_GPIO-38
+Added Net: Name=KEY_0
+Added Pin To Net: NetName=KEY_1 Pin=Key_1-1
+Added Pin To Net: NetName=KEY_1 Pin=Key_1-1
+Added Pin To Net: NetName=KEY_1 Pin=R2-1
+Added Pin To Net: NetName=KEY_1 Pin=Raspi_GPIO-40
+Added Net: Name=KEY_1
+Added Pin To Net: NetName=V_BATEX Pin=PWR_Ex-1
+Added Pin To Net: NetName=V_BATEX Pin=Pwr_SW-1
+Added Net: Name=V_BATEX
+Added Pin To Net: NetName=V_UBEC Pin=Pwr_SW-3
+Added Net: Name=V_UBEC
+Added Member To Class: ClassName=Sensors Member=Component Key_0 
+Added Member To Class: ClassName=Sensors Member=Component Key_1 
+Added Member To Class: ClassName=etc Member=Component PWR_Ex 额外电源供电，最好使用接线端子
+Added Member To Class: ClassName=Sensors Member=Component R2 Res2
+Added Member To Class: ClassName=Sensors Member=Component R3 Res2

@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=NetD0_1 Pin=D0-A
+Removed Pin From Net: NetName=NetD0_1 Pin=D0-A
+Removed Pin From Net: NetName=NetD0_1 Pin=D0-A
+Removed Pin From Net: NetName=VCC Pin=D0-K1
+Added Pin To Net: NetName=VCC Pin=D0-A
+Added Pin To Net: NetName=VCC Pin=D0-A
+Added Pin To Net: NetName=VCC Pin=D0-A
+Added Pin To Net: NetName=NetD0_1 Pin=D0-K1
+Added Room: Name=etc
+Added Room: Name=Rpi_GPIO
+Added Room: Name=Sensors

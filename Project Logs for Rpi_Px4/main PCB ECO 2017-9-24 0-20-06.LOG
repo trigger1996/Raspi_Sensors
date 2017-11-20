@@ -1,0 +1,54 @@
+Added Component: Designator=MPU9250(HDR1X10)
+Added Component: Designator=MS5611(HDR1X6)
+Added Component: Designator=PCA9685_L(HDR1X6)
+Added Component: Designator=PCA9685_R(HDR1X6)
+Added Component: Designator=Q0(TO-92A)
+Added Component: Designator=R0(AXIAL-0.4)
+Added Component: Designator=R1(AXIAL-0.4)
+Added Component: Designator=RC_S.BUS(HDR1X3)
+Added Pin To Net: NetName=GND Pin=MPU9250-2
+Added Pin To Net: NetName=MPU9250_CS Pin=MPU9250-9
+Added Pin To Net: NetName=GND Pin=MS5611-2
+Added Pin To Net: NetName=GND Pin=PCA9685_L-1
+Added Pin To Net: NetName=GND Pin=Q0-1
+Added Pin To Net: NetName=USART_RX Pin=Q0-3
+Added Pin To Net: NetName=USART_RX Pin=R1-1
+Added Pin To Net: NetName=GND Pin=RC_S.BUS-1
+Change Net Name : Old Net Name=LED_B New Net Name=LED_G
+Change Net Name : Old Net Name=LED_R New Net Name=PPM_DECODE
+Added Pin To Net: NetName=I2C_SCL Pin=MS5611-3
+Added Pin To Net: NetName=I2C_SCL Pin=PCA9685_L-3
+Added Pin To Net: NetName=I2C_SCL Pin=Raspi_GPIO-5
+Added Net: Name=I2C_SCL
+Added Pin To Net: NetName=I2C_SDA Pin=MS5611-4
+Added Pin To Net: NetName=I2C_SDA Pin=PCA9685_L-4
+Added Pin To Net: NetName=I2C_SDA Pin=Raspi_GPIO-3
+Added Net: Name=I2C_SDA
+Added Pin To Net: NetName=LED_B Pin=Raspi_GPIO-33
+Added Net: Name=LED_B
+Added Pin To Net: NetName=LED_R Pin=Raspi_GPIO-29
+Added Net: Name=LED_R
+Added Pin To Net: NetName=NetQ0_2 Pin=Q0-2
+Added Pin To Net: NetName=NetQ0_2 Pin=R0-1
+Added Net: Name=NetQ0_2
+Added Pin To Net: NetName=SBUS_IN Pin=R0-2
+Added Pin To Net: NetName=SBUS_IN Pin=RC_S.BUS-3
+Added Net: Name=SBUS_IN
+Added Pin To Net: NetName=SCLK_9250 Pin=MPU9250-3
+Added Pin To Net: NetName=SCLK_9250 Pin=Raspi_GPIO-23
+Added Net: Name=SCLK_9250
+Added Pin To Net: NetName=SDI_9250 Pin=MPU9250-4
+Added Pin To Net: NetName=SDI_9250 Pin=Raspi_GPIO-19
+Added Net: Name=SDI_9250
+Added Pin To Net: NetName=SDO_9250 Pin=MPU9250-7
+Added Pin To Net: NetName=SDO_9250 Pin=Raspi_GPIO-21
+Added Net: Name=SDO_9250
+Added Pin To Net: NetName=VCC Pin=MPU9250-1
+Added Pin To Net: NetName=VCC Pin=MS5611-1
+Added Pin To Net: NetName=VCC Pin=PCA9685_L-5
+Added Pin To Net: NetName=VCC Pin=R1-2
+Added Pin To Net: NetName=VCC Pin=RC_S.BUS-2
+Added Net: Name=VCC
+Added Class: Name=Sensors
+Added Room: Name=Rpi_GPIO
+Added Room: Name=Sensors

@@ -1,0 +1,48 @@
+Added Component: Designator=Raspi_GPIO(HDR2X20)
+Added Pin To Net: NetName=3V3 Pin=Raspi_GPIO-1
+Added Pin To Net: NetName=3V3 Pin=Raspi_GPIO-17
+Added Net: Name=3V3
+Added Pin To Net: NetName=5V Pin=Raspi_GPIO-2
+Added Pin To Net: NetName=5V Pin=Raspi_GPIO-4
+Added Net: Name=5V
+Added Pin To Net: NetName=BACKUP_1 Pin=Raspi_GPIO-11
+Added Net: Name=BACKUP_1
+Added Pin To Net: NetName=BACKUP_2 Pin=Raspi_GPIO-12
+Added Net: Name=BACKUP_2
+Added Pin To Net: NetName=GND Pin=Raspi_GPIO-6
+Added Pin To Net: NetName=GND Pin=Raspi_GPIO-9
+Added Pin To Net: NetName=GND Pin=Raspi_GPIO-14
+Added Pin To Net: NetName=GND Pin=Raspi_GPIO-20
+Added Pin To Net: NetName=GND Pin=Raspi_GPIO-25
+Added Pin To Net: NetName=GND Pin=Raspi_GPIO-30
+Added Pin To Net: NetName=GND Pin=Raspi_GPIO-34
+Added Pin To Net: NetName=GND Pin=Raspi_GPIO-39
+Added Net: Name=GND
+Added Pin To Net: NetName=LED_B Pin=Raspi_GPIO-31
+Added Net: Name=LED_B
+Added Pin To Net: NetName=LED_G Pin=Raspi_GPIO-13
+Added Net: Name=LED_G
+Added Pin To Net: NetName=LED_R Pin=Raspi_GPIO-7
+Added Net: Name=LED_R
+Added Pin To Net: NetName=MPU9250_CS Pin=Raspi_GPIO-26
+Added Net: Name=MPU9250_CS
+Added Pin To Net: NetName=MPU9250_INT Pin=Raspi_GPIO-16
+Added Net: Name=MPU9250_INT
+Added Pin To Net: NetName=MS5611_SCL Pin=Raspi_GPIO-5
+Added Net: Name=MS5611_SCL
+Added Pin To Net: NetName=MS5611_SDA Pin=Raspi_GPIO-3
+Added Net: Name=MS5611_SDA
+Added Pin To Net: NetName=SPI_MISO Pin=Raspi_GPIO-21
+Added Net: Name=SPI_MISO
+Added Pin To Net: NetName=SPI_MOSI Pin=Raspi_GPIO-23
+Added Net: Name=SPI_MOSI
+Added Pin To Net: NetName=SPI_SCLK Pin=Raspi_GPIO-19
+Added Net: Name=SPI_SCLK
+Added Pin To Net: NetName=UBLOX_CS Pin=Raspi_GPIO-24
+Added Net: Name=UBLOX_CS
+Added Pin To Net: NetName=USART_RX Pin=Raspi_GPIO-10
+Added Net: Name=USART_RX
+Added Pin To Net: NetName=USART_TX Pin=Raspi_GPIO-8
+Added Net: Name=USART_TX
+Added Class: Name=Rpi_GPIO
+Added Room: Name=Rpi_GPIO

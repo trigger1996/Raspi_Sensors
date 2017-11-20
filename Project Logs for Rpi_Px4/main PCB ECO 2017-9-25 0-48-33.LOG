@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=GND Pin=Q0-1
+Removed Pin From Net: NetName=NetQ0_2 Pin=Q0-2
+Removed Pin From Net: NetName=USART_RX Pin=Q0-3
+Added Pin To Net: NetName=USART_RX Pin=Q0-1
+Added Pin To Net: NetName=GND Pin=Q0-2
+Added Pin To Net: NetName=NetQ0_2 Pin=Q0-3
+Added Room: Name=etc
+Added Room: Name=Rpi_GPIO
+Added Room: Name=Sensors

@@ -1,0 +1,22 @@
+Removed Member From Class: ClassName=Sensors Member=LED_RGB
+Added Component: Designator=D0(LED-RGB)
+Added Component: Designator=R5(0805)
+Added Component: Designator=R6(0805)
+Added Component: Designator=R7(0805)
+Added Pin To Net: NetName=VCC Pin=D0-2
+Added Pin To Net: NetName=LED_B Pin=R5-1
+Added Pin To Net: NetName=LED_G Pin=R6-1
+Added Pin To Net: NetName=LED_R Pin=R7-1
+Added Pin To Net: NetName=NetD0_1 Pin=D0-1
+Added Pin To Net: NetName=NetD0_1 Pin=R5-2
+Added Net: Name=NetD0_1
+Added Pin To Net: NetName=NetD0_3 Pin=D0-3
+Added Pin To Net: NetName=NetD0_3 Pin=R6-2
+Added Net: Name=NetD0_3
+Added Pin To Net: NetName=NetD0_4 Pin=D0-4
+Added Pin To Net: NetName=NetD0_4 Pin=R7-2
+Added Net: Name=NetD0_4
+Added Member To Class: ClassName=Sensors Member=Component D0 LED-RGB
+Added Member To Class: ClassName=Sensors Member=Component R5 Res2
+Added Member To Class: ClassName=Sensors Member=Component R6 Res2
+Added Member To Class: ClassName=Sensors Member=Component R7 Res2
