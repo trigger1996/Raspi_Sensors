@@ -4,6 +4,9 @@
 This is a integrated simple Rpi Sensor moduled for px4 autopilot, which is designed for mostly compatibility with Navio
 And it's drawn by Altium Designer (or Dxp)
 
+2017.11.20
+  Block 1 is not cabable enough for its strong internal crosstalk. So we attempt to reroute and a couple of copnents to reduce interference from the motor and power source, such as an inductor and a diode, etc.
+
 2017.10.9
 
 修改意见:
