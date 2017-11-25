@@ -4,9 +4,26 @@
 This is a integrated simple Rpi Sensor moduled for px4 autopilot, which is designed for mostly compatibility with Navio
 And it's drawn by Altium Designer (or Dxp)
 
+
+2017.11.25
+	
+	修改意见之二：
+	
+	1 在电源处用来隔离的小电阻有问题，在上面有2V多的压降
+	
+	2 电感太大，挡住了别的器件
+	
+	3 备用电源可以取消了，因为Lidar不会从那边走了
+	
+	4 MS5611还是要往下移动一点，还是会被挡住
+
+	5 灯也会5611被挡住
+	
+	
+	
 2017.11.20
 
-  Block 1 is not cabable enough for its strong internal crosstalk. So we attempt to reroute and a couple of copnents to reduce interference from the motor and power source, such as an inductor and a diode, etc.
+Block 1 is not cabable enough for its strong internal crosstalk. So we attempt to reroute and a couple of copnents to reduce interference from the motor and power source, such as an inductor and a diode, etc.
 
 
 
