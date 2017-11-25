@@ -1,4 +1,4 @@
-# Raspi_Sensors
+,can# Raspi_Sensors
 
 
 This is a integrated simple Rpi Sensor moduled for px4 autopilot, which is designed for mostly compatibility with Navio
@@ -9,7 +9,7 @@ And it's drawn by Altium Designer (or Dxp)
 	
 	修改意见之二：
 	
-	1 在电源处用来隔离的小电阻有问题，在上面有2V多的压降
+	1 在电源处用来隔离的小电阻有问题，在上面有2V多的压降，参考HT_HAWK的原理图，那个电阻大可不要，或者换成开关管
 	
 	2 电感太大，挡住了别的器件
 	
