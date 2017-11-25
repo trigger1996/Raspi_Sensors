@@ -19,6 +19,7 @@ And it's drawn by Altium Designer (or Dxp)
 
 	5 灯也会5611被挡住
 	
+	6 靠GPIO的两个螺丝孔位不对
 	
 	
 2017.11.20
