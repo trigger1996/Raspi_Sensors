@@ -4,6 +4,23 @@
 This is a integrated simple Rpi Sensor moduled for px4 autopilot, which is designed for mostly compatibility with Navio
 And it's drawn by Altium Designer (or Dxp)
 
+2017.12.11
+	
+	袁总的一些建议
+	
+	1 如果PCA9685有干扰，那么可以使用电磁屏蔽罩屏蔽起来
+	
+	2 二极管是用来防止电感起振的，这个是有一定实际作用的
+	
+	3 如果觉得9250有问题，那么可以再9250的位置加个磁珠，9250的地和外部的地加个磁珠，电源也可以加 
+
+	4 2层板子反面的点点也是可以通过布线设置取消的
+	
+	5 电磁兼容的东西一般只能试出来
+	
+	6 电阻别加，小电阻起不到隔离的作用，反而会因为电流的增大而分走更多的电压
+	
+	总体来说第二版的布线策略没有太大的问题
 
 2017.11.25
 	
